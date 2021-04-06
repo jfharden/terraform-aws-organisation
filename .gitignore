@@ -37,3 +37,5 @@ backend.tf
 
 # Ignore vim swap files
 .*.swp
+
+.tool-versions
